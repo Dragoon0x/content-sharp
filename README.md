@@ -4,7 +4,7 @@ Content craft and strategy — 559 skills and 35 commands across writing, newsle
 
 ## What this is
 
-An open-source skill pack for AI coding agents and content practitioners. Every skill is 3,000 words of practitioner-depth knowledge — real frameworks, real case studies, real mental models, and real execution guidance. Not generic advice. The actual judgment layer that determines whether content earns attention or gets ignored.
+An open-source skill pack for AI coding agents and content practitioners. Every skill has a practitioner-level depth of knowledge — real frameworks, real case studies, real mental models, and real execution guidance. Not generic advice, but the judgment layer that determines whether content earns attention or gets ignored.
 
 ## Domains
 
