@@ -40,12 +40,6 @@ claude plugin add --marketplace Dragoon0x/content-sharp
 
 Paul Graham (essay craft → YC brand), Lenny Rachitsky ($5M newsletter), Alex Hormozi (5M followers in 18 months), Ahrefs ($100M+ ARR from SEO content), HubSpot ($30B on content distribution), Basecamp (selling against free alternatives), Intercom (content as competitive moat), Shane Parrish/Farnam Street (mental model authority)
 
-## Stats
-
-- **559 skills**, each ~3,000 words of practitioner-depth content
-- **35 commands** for common content workflows
-- **1.6M+ total words** of real content knowledge
-- **8 domains** covering the full content spectrum
 
 ## Legal
 
