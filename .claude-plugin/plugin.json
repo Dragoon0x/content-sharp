@@ -1,0 +1,16 @@
+{
+  "id": "content-sharp",
+  "name": "Content Sharp",
+  "description": "Content craft and strategy — 559 skills and 35 commands across writing, newsletters, social, SEO, storytelling, strategy, copywriting, and content operations. 1.6M words of real content knowledge.",
+  "version": "1.0.0",
+  "domains": [
+    "cs-writing/plugin.json",
+    "cs-newsletter/plugin.json",
+    "cs-social/plugin.json",
+    "cs-seo/plugin.json",
+    "cs-storytelling/plugin.json",
+    "cs-strategy/plugin.json",
+    "cs-copy/plugin.json",
+    "cs-operations/plugin.json"
+  ]
+}
